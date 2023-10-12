@@ -1,2 +1,5 @@
 # 404-page-challenge
-404-page-challenge in dev challenges website
+
+Solution for a challenge from Devchallenges.io
+Challenge Page: https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY
+
