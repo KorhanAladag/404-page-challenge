@@ -1,6 +1,6 @@
 # 404-page-challenge
 
-Solution for a challenge from Devchallenges.io
+Solution for 404 page challenge from Devchallenges.io
 
 
 Challenge Page: https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY
