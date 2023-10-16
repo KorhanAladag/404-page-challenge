@@ -16,6 +16,12 @@ header{
     height: 25px;
 }
 
+.main-container{
+    height: 685px;
+    width: 350px;
+    margin: 0 auto 0 auto;
+}
+
 img{
 width: 286.83px;
 height: 238px;
